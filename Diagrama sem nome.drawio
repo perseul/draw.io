@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T14:48:40.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="azFyUDF2Y42BvXHyQS4N" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T19:26:34.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="Gjjk9LV32xSqmUgtlRjW" version="21.6.8" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="2200" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,7 +138,7 @@
         <mxCell id="4EXgnIh0lj9RlMmVnndj-26" value="DEPLOY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="730" y="425" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4EXgnIh0lj9RlMmVnndj-32" value="TESTE&lt;br&gt;QUALITY ASSURANCE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+        <mxCell id="4EXgnIh0lj9RlMmVnndj-32" value="TESTE&lt;br&gt;QUALITY ASSURANCE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;fontColor=#000000;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="873.25" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EXgnIh0lj9RlMmVnndj-33" value="TESTE DE REGRESSÃO (HOTFIX)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;strokeColor=#ae4132;" parent="1" vertex="1">
@@ -448,7 +448,7 @@
         <mxCell id="vSbtKCntCjMk1oFgpZv_-1" value="AMBIENTE&lt;br&gt;QA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="1">
           <mxGeometry x="558.5500000000001" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSbtKCntCjMk1oFgpZv_-3" value="TESTE&lt;br&gt;DE&amp;nbsp;&lt;br&gt;REGRESSÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="vSbtKCntCjMk1oFgpZv_-3" value="TESTE&lt;br&gt;DE&amp;nbsp;&lt;br&gt;REGRESSÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;fontColor=#000000;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="873.25" y="696" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vSbtKCntCjMk1oFgpZv_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;strokeColor=#00FFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9YfGLwOc8jqXOTEML09n-5" target="vSbtKCntCjMk1oFgpZv_-5">
